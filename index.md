@@ -7,9 +7,9 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Bachelor of Engineering (Majoring Chemistry) | Universidad Nacional del Centro del Peru         | 2003-2007 |
+| Master in Environmental Development | Pontificia Universidad Catolica del Peru | 2011-2015 |
+| Doctor of Phisolophy | The University of Queensland | 2018-2022 |
 
 ## Employment
 
