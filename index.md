@@ -7,17 +7,18 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Engineering (Majoring Chemistry) | Universidad Nacional del Centro del Peru         | 2003-2007 |
-| Master in Environmental Development | Pontificia Universidad Catolica del Peru | 2011-2015 |
 | Doctor of Phisolophy | The University of Queensland | 2018-2022 |
+| Master in Environmental Development | Pontificia Universidad Catolica del Peru | 2011-2015 |
+| Bachelor of Engineering (Majoring Chemistry) | Universidad Nacional del Centro del Peru         | 2003-2007 |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|Queensland Herbarium|Intern |2022|
+|Pontificia Universidad Catolica del Peru|Lecturer |2014-2018|
+|Antamina Mining Company-Peru|Trainee engineer |2008-2009|
+|Doe Run Metallurgical Operations-Peru|Intern |2008|
+|Quiruvilca Mining Company-Peru|Intern |2007|
 
 ## Skills
 
